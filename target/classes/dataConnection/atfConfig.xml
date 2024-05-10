@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <serverConfiguration>
+        <IPaddress>192.168.56.1</IPaddress>
+        <port>4723</port>
+    </serverConfiguration>
+
+    <capabilities>
+       <deviceName>Pixel_3a_API_34_extension_level_7_x86_64</deviceName>
+        <udId>emulator-5554</udId>
+        <platformName>Android</platformName>
+        <platformVersion>14.0</platformVersion>
+    </capabilities>
+
+
+</configuration>
